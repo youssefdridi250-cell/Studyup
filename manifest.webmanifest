@@ -1,0 +1,14 @@
+{
+  "name": "StudyUp – Dein Lernplaner",
+  "short_name": "StudyUp",
+  "description": "Dein persönlicher Lernplaner für die Schule.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f9",
+  "theme_color": "#18283d",
+  "orientation": "portrait",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
